@@ -42,7 +42,7 @@ const Footer = () => {
         </div>
         
         <div className="footer-bottom">
-          <p>&copy; 2025 Orbit-X. All rights reserved. Powered by LayerOneX infrastructure.</p>
+          <p>&copy; 2025 Orbit-X. All rights reserved.</p>
           <p>AI-Powered Voice Controlled Blockchain Router</p>
         </div>
       </div>
